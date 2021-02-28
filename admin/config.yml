@@ -9,4 +9,4 @@ collections:
       create: true
       slug: "{{slug}}"
       fields:
-          - { label: "Body", name: "body", widget: "html" }
+          - { label: "Body", name: "body", widget: "code" }
