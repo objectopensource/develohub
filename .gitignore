@@ -1,2 +1,4 @@
+# Jekyll cache directory
 .jekyll-cache/
+# Build directory
 _site/
