@@ -40,7 +40,7 @@ html {
     scroll-behavior: smooth;
 }
 
-/* Navigation bar styles begin */
+/* Navigation bar styles begin here */
 
 .navbar {
     display: flex;
@@ -126,9 +126,9 @@ html {
     background-color: #555;
 }
 
-/* Navigation bar styles end */
+/* Navigation bar styles end here */
 
-/* Begin footer styles */
+/* Footer styles begin here */
 
 footer {
     font-weight: 300;
@@ -136,7 +136,7 @@ footer {
     padding: 1em;
     margin: -8px;
     color: #d6d6d6;
-    margin-top: 100px;
+    margin-top: 30px;
     font-size: small;
     background-color: #333333;
 }
@@ -158,7 +158,41 @@ footer #footer__links a:focus {
     transform: scale(1.25);
 }
 
-/* End footer styles */
+/* Footer styles end here */
+
+/* Share button styles begin here */
+
+ul.share-buttons {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+ul.share-buttons li {
+    display: inline;
+    margin: 3px;
+}
+
+ul.share-buttons img {
+    all: unset;
+}
+
+#share {
+    margin-top: 70px;
+}
+
+/* Share button styles end here */
+
+.share-text {
+    opacity: 0.5;
+    text-align: center;
+}
+
+hr {
+    opacity: 0.5;
+}
 
 h1 {
     font-size: 2.5em;
