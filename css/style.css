@@ -259,6 +259,7 @@ noscript h1 {
     font-size: 2em;
 }
 
+/* Media queries */
 @media only screen and (max-width: 360px) {
     img {
         width: 85vw;
