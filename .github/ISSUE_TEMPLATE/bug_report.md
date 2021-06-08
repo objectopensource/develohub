@@ -1,16 +1,16 @@
 ---
 name: Bug report
-about: Create a bug report to help us fix problems
+about: Create a report to help us fix problems
 title: Bug report
-labels: bug
-assignees: objectopensource
+labels: problem
+assignees: opensourze
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the bug or issue**
+A clear and concise description of what the problem is.
 
 **Expected behavior**
-A clear and concise description of what you expected to happen.
+A clear and concise description of what you expected.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
